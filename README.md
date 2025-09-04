@@ -1,4 +1,6 @@
-Thay đổi từ B
+Đây là README chỉnh sửa bởi A
+
+A bổ sung thêm hướng dẫn
 
 Đây là README được chỉnh sửa từ nhánh main.
 

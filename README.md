@@ -1,6 +1,6 @@
-Đây là README chỉnh sửa bởi A
+Đây là README chỉnh sửa bởi B
 
-A bổ sung thêm hướng dẫn
+B bổ sung thêm ví dụ
 
 Đây là README được chỉnh sửa từ nhánh main.
 
